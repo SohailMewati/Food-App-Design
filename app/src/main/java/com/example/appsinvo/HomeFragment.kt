@@ -8,9 +8,10 @@ import android.widget.ImageView
 import android.widget.LinearLayout
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.GridLayoutManager
-import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import androidx.viewpager.widget.ViewPager
+import com.example.appsinvo.adapter.HomeFragmentItemAdapter
+import com.example.appsinvo.models.HomeFragmentItemModel
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
 @Suppress("UNREACHABLE_CODE")

@@ -1,4 +1,4 @@
-package com.example.appsinvo
+package com.example.appsinvo.models
 
 data class HomeFragmentItemModel(
     val img: Int,
